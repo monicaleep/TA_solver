@@ -7,4 +7,4 @@
 - implement graphs, tail-recursion
 
 
-### Problem 2: Given an list of TAs (with thier availabilities) and a shift roster, make a schedule
+### Problem 2: Given an list of TAs (with their availabilities) and a shift roster, make a schedule
